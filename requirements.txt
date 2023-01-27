@@ -1,0 +1,6 @@
+dotenv
+revChatGPT
+telegram_bot
+httpx
+telegram
+requests
